@@ -103,16 +103,11 @@ Here are the technologies, languages, and tools I use in my work:
   <summary>📊 My GitHub Stats</summary>
   <br>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="http://github.com/nuazsa">
       <img src="https://github-readme-stats.vercel.app/api?username=nuazsa&hide_border=true&rank_icon=github&show_icons=true&count_private=true" alt="Nur Azis Saputra GitHub Stats" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="http://github.com/nuazsa">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuazsa&hide_border=true&langs_count=10&layout=compact&count_private=true" alt="Top Languages" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=nuazsa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </a>
   </p>
 </details>
