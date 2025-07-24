@@ -2,7 +2,7 @@
 
 ### A Software Developer focused on building robust applications.
 
-I enjoy the challenge of deep-dive debugging and am passionate about learning new technologies to deliver **clean, maintainable code**. Feel free to check out my **[Portfolio & CV](https://nuazsa.github.io)** to learn more about my work.
+I enjoy the challenge of deep-dive debugging and am passionate about learning new technologies to deliver **clean, maintainable code**. Feel free to check out my **[Portfolio & CV](https://nuazsa.my.id)** to learn more about my work.
 
 ---
 
